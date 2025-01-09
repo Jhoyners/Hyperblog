@@ -1,4 +1,6 @@
+/* General Styles */
 body {
+<<<<<<< HEAD
     background-color: #f0f8ff;
     color: #333;
     font-family: Arial, sans-serif;
@@ -44,4 +46,95 @@ button {
 
 button:hover {
     background-color: #ff6347;
+=======
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+    text-align: center; /* Center align text */
+}
+
+/* Header Styles */
+header {
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+/* Navigation Styles */
+nav {
+    display: flex;
+    justify-content: center;
+    background: #e8491d;
+    padding: 10px 0;
+}
+
+nav a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 1.2em;
+}
+
+nav a:hover {
+    background: #35424a;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+    background: #ffffff;
+    margin: 20px auto;
+    max-width: 1200px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center; /* Center align text */
+}
+
+main h2 {
+    color: #35424a;
+    margin-top: 0;
+}
+
+main p {
+    line-height: 1.6;
+}
+
+/* Footer Styles */
+footer {
+    background: #35424a;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav a {
+        padding: 10px;
+        text-align: center;
+    }
+
+    main {
+        margin: 10px;
+        padding: 10px;
+    }
+>>>>>>> cabecera
 }
