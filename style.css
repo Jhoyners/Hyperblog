@@ -1,6 +1,6 @@
 /* General Styles */
 body {
-<<<<<<< HEAD
+
     background-color: #f0f8ff;
     color: #333;
     font-family: Arial, sans-serif;
@@ -46,7 +46,7 @@ button {
 
 button:hover {
     background-color: #ff6347;
-=======
+
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
@@ -136,14 +136,3 @@ footer p {
         margin: 10px;
         padding: 10px;
     }
-<<<<<<< HEAD
->>>>>>> cabecera
-=======
-}
-
-@media (max-width: 480px) {
-    nav a {
-        font-size: 1em;
-    }
->>>>>>> cabecera
-}
