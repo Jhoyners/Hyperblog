@@ -1,3 +1,5 @@
 Lo que estoy intentando con este documento es revisar mis conocimientos aprendidos en las clases de Git y Git Hub.
 
-Posiblemente cometa muchos errores pero esa es la idea, aprender.
+Posiblemente cometa muchos errores pero esa es la idea, aprender. A demas es necesario aprender a hacer los merge de una manera correcta y sin errores.
+
+Ya que son parte fundamental del flujo de trabajo cotidiano.
