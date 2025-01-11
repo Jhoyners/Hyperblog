@@ -1,0 +1,3 @@
+Lo que estoy intentando con este documento es revisar mis conocimientos aprendidos en las clases de Git y Git Hub.
+
+Posiblemente cometa muchos errores pero esa es la idea, aprender.

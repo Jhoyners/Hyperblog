@@ -1,0 +1,17 @@
+.body{
+    background-color: darkslategrey;
+    font-family: monospace;
+    align-items: center;
+    text-align: center;
+}
+
+#bienvenida {
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid rgb(81, 29, 105);
+    border-radius: 10px;
+    background-color: lightgrey;
+}
